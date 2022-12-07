@@ -1,0 +1,27 @@
+[
+  {
+    "id": "1",
+    "name": "JavaScript"
+  },
+  {
+    "id": "2",
+    "name": "C Sharp"
+  },
+  {
+    "id": "3",
+    "name": "Python"
+  },
+
+  {
+    "id": "4",
+    "name": "Angular"
+  },
+  {
+    "id": "5",
+    "name": "Web Development"
+  },
+  {
+    "id": "6",
+    "name": "HTML5,CSS3,Bootstrap"
+  }
+]
